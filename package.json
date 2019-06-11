@@ -1,6 +1,6 @@
 {
   "name": "popsicle-user-agent",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Popsicle middleware for setting a default `User-Agent` header",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
