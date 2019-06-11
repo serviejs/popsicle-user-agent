@@ -22,10 +22,9 @@
   },
   "keywords": [
     "popsicle",
-    "cookies",
-    "jar",
-    "memory",
-    "store"
+    "user-agent",
+    "header",
+    "default"
   ],
   "author": {
     "name": "Blake Embrey",
